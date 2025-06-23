@@ -1,7 +1,7 @@
 package com.capton.sl;
 /**
  * 可以自由移动缩放的图片控件
- * Created by capton on 2017/4/18.
+ * Created by s_nshine on 2017/4/18.
  */
 
 import android.content.Context;
